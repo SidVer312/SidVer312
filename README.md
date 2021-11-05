@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Siddhartha Verma!
 
-<!--
-**SidVer312/SIdVer312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 14 year old with 4 years of programming experience.
+About me:
+-  A student at DPS RK Puram
+- 🐍 Fluent in Python
+- Certified in C++
+- Gamedev
+- Learing C#
+- Know a little Java
 
-Here are some ideas to get you started:
+Visit my game website [GameSquare95](https://gamesquare95.wordpress.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=SidVer312&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=dracula" alt="My Github Stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidVer312&layout=compact&hide_border=true&theme=dracula" alt="My Github Stats">
