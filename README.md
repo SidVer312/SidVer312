@@ -1,7 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Siddhartha Verma!
 
 I am a 14 year old with 4 years of programming experience(Yes.. I have been programming since I was 10)
-##About me:
+
+## About me:
 -  A student at DPS RK Puram
 - A Game Developer
 - Super Curious
