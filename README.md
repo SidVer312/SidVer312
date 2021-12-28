@@ -9,8 +9,8 @@ I am a 14 year old with 4 years of programming experience(Yes.. I have been prog
 - Willing to learn and Enhance my skill
 - Solid 3 1/2 years of experience in Python
 - Certified in C++
-- Currently exploring Data Sciences
-- Apart from this I can make Webistes and Apps on Demand
+- Currently exploring Data Sciences and Unity
+- Apart from this I can make Websites and Apps on Demand
 
 ## Programming Languages I know and often work with:
 
