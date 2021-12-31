@@ -7,7 +7,7 @@ I am a 14 year old with 4 years of programming experience(Yes.. I have been prog
 - A Game Developer
 - Super Curious
 - Willing to learn and Enhance my skill
-- Solid 3 1/2 years of experience in Python
+- Solid 4 years of experience in Python
 - Certified in C++
 - Currently exploring Data Sciences and Unity
 - Apart from this I can make Websites and Apps on Demand
