@@ -25,7 +25,6 @@ I am a 14 year old with 4 years of programming experience(Yes.. I have been prog
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="30" height="30" />
 
-
 Visit my game website [GameSquare95](https://gamesquare95.wordpress.com/).
 You can contact me at Instagram @siddharthaverma312
 
