@@ -28,10 +28,12 @@ I am a 14 year old with 4 years of programming experience(Yes.. I have been prog
 ## Software I often use:
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-along with CodeBlocks, Visual Studio and much more....
+  along with CodeBlocks, Visual Studio and much more....
 
 
 Visit my game website [GameSquare95](https://gamesquare95.wordpress.com/).
 You can contact me at Instagram @siddharthaverma312
 
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=SidVer312&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=dracula" alt="My Github Stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidVer312&layout=compact&hide_border=true&theme=dracula" alt="My Github Stats">
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=SidVer312&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=dracula" alt="My Github Stats">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidVer312&layout=compact&hide_border=true&theme=dracula" alt="My Github Stats">
