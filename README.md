@@ -30,7 +30,7 @@ I am a 14 year old with 4 years of programming experience(Yes.. I have been prog
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
   along with CodeBlocks, Visual Studio and much more....
 
-Visit my [Website]('https://siddharthaverma.me') 
+Visit my Website https://siddharthaverma.me
 
 Visit my game website [GameSquare95](https://gamesquare95.wordpress.com/).
 
