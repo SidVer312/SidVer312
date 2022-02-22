@@ -9,7 +9,8 @@ I am a 14 year old with 4 years of programming experience(Yes.. I have been prog
 - Willing to learn and Enhance my skill
 - Solid 4 years of experience in Python
 - close to being Certified in C++
-- Currently exploring Data Sciences and Unity
+- Currently exploring Deep Learing and AR 
+- Interested in exploring capabilities of the metaverse
 - Apart from this I can make Websites and Apps on Demand
 
 ## Programming Languages I know and often work with:
