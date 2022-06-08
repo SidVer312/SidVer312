@@ -30,7 +30,7 @@ I am a 15 year old with 4 years of programming experience(Yes.. I have been prog
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  along with CodeBlocks, Visual Studio and much more....
+   along with CodeBlocks, Visual Studio and much more....
 
 Visit my Website https://siddharthaverma.me
 
