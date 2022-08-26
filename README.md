@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Siddhartha <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
-### A passionate Python and C++ developer from India
+### Welcome to my Github 
 #### About me:
 - A student at DPS RK Puram
 - An ad-Hoc at my school's tech club **Exun**
