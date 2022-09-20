@@ -6,7 +6,6 @@
 - 5 years of experience in **Python**
 - Certified in **C++**
 - Currently exploring **Deep Learing and AR**
-- Interested in exploring capabilities of **Mixed Reality**
 - Can make programs on-demand
 - How to reach me: **siddharthaverma312@gmail.com**
 - My website [siddharthaverma.me](https://siddharthaverma.me)
