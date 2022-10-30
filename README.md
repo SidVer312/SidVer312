@@ -2,7 +2,7 @@
 ### Welcome to my Github 
 #### About me:
 - A student at DPS RK Puram
-- An ad-Hoc at my school's tech club **Exun**
+- A member of my school's tech club **Exun**
 - 5 years of experience in **Python**
 - Certified in **C++**
 - Currently exploring **Deep Learing and AR**
