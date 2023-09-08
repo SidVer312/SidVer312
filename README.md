@@ -8,8 +8,7 @@
 - Currently exploring **Deep Learing and AR**
 - Can make programs on-demand
 - How to reach me: **siddharthaverma312@gmail.com**
-- My website [siddharthaverma.me](https://siddharthaverma.me)
-- Website for the games I have developed \(Work in Progress) [GameSquare95](https://gamesquare95.wordpress.com)
+
 
 #### Programming languages I work with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,7 +40,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #### Contact me at:
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siddharthaverma312/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sid_verma312/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthaverma312@gmail.com)
 ![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) <br>
 
