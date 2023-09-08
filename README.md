@@ -5,8 +5,6 @@
 - A member of my school's tech club **Exun**
 - 5 years of experience in **Python**
 - Certified in **C++**
-- Currently exploring **Deep Learing and AR**
-- Can make programs on-demand
 - How to reach me: **siddharthaverma312@gmail.com**
 
 
