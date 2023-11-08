@@ -2,7 +2,7 @@
 ### Welcome to my Github 
 #### About me:
 - A student at DPS RK Puram
-- A member of my school's tech club **Exun**
+- A member of my school's tech club **Exun Clan**
 - 5 years of experience in **Python**
 - Certified in **C++**
 - How to reach me: **siddharthaverma312@gmail.com**
