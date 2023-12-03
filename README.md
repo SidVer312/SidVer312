@@ -1,4 +1,4 @@
-## Hi 👋, I'm Siddhartha <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+## Hi 👋, I'm Siddhartha
 ### Welcome to my Github 
 #### About me:
 - A student at DPS RK Puram
