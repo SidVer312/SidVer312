@@ -46,4 +46,4 @@
 <h3>My Stats: </h3>
 <img  align="center" src="https://github-readme-stats.vercel.app/api?username=SidVer312&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=dracula" alt="My Github Stats">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidver312&hide=scss,html,css&theme=dracula&hide_boarder=true" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidver312&hide=scss,html&theme=dracula&hide_border=true" alt="My Github Stats">
