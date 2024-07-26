@@ -1,10 +1,11 @@
 ## Hi 👋, I'm Siddhartha
 
 #### About me:
+- Student at Vellore Institute of Technology
 - Alumnus of DPS RK Puram
 - A former member of my school's tech club **Exun Clan**
 - 5 years of experience in **Python**
-- Certified in **C++**
+- Certified in **C++** by Pirple.com
 - Email: **siddharthaverma312@gmail.com**
 
 
